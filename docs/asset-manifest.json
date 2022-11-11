@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/ejioforthaddeus/my-react-portfolio/static/css/main.5f60bf55.css",
+    "main.js": "/ejioforthaddeus/my-react-portfolio/static/js/main.9e5a1d4e.js",
+    "static/media/cap2.PNG": "/ejioforthaddeus/my-react-portfolio/static/media/cap2.3e9f42b831bc296f1c5d.PNG",
+    "static/media/cap3.PNG": "/ejioforthaddeus/my-react-portfolio/static/media/cap3.9f9916215f9f523ffa9e.PNG",
+    "static/media/cap1.PNG": "/ejioforthaddeus/my-react-portfolio/static/media/cap1.655959d6f5e8aff55ca9.PNG",
+    "static/media/cap5.PNG": "/ejioforthaddeus/my-react-portfolio/static/media/cap5.13a5ae05a6807868b9fe.PNG",
+    "static/media/eji.png": "/ejioforthaddeus/my-react-portfolio/static/media/eji.2aa3e81f1961c870e0e2.png",
+    "static/media/eji.jpg": "/ejioforthaddeus/my-react-portfolio/static/media/eji.1a86b1257ee2aa6561ad.jpg",
+    "static/media/glassesimoji.png": "/ejioforthaddeus/my-react-portfolio/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/pablo4.jpg": "/ejioforthaddeus/my-react-portfolio/static/media/pablo4.a56cc79438cd2c174d8b.jpg",
+    "static/media/thumbup.png": "/ejioforthaddeus/my-react-portfolio/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/ejioforthaddeus/my-react-portfolio/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/ejioforthaddeus/my-react-portfolio/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/ejioforthaddeus/my-react-portfolio/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/ejioforthaddeus/my-react-portfolio/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/ejioforthaddeus/my-react-portfolio/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/ejioforthaddeus/my-react-portfolio/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "static/media/profile.jfif": "/ejioforthaddeus/my-react-portfolio/static/media/profile.2f435533a04b21568240.jfif",
+    "index.html": "/ejioforthaddeus/my-react-portfolio/index.html",
+    "static/media/resume.pdf": "/ejioforthaddeus/my-react-portfolio/static/media/resume.1fc772e7948f348e7261.pdf",
+    "main.5f60bf55.css.map": "/ejioforthaddeus/my-react-portfolio/static/css/main.5f60bf55.css.map",
+    "main.9e5a1d4e.js.map": "/ejioforthaddeus/my-react-portfolio/static/js/main.9e5a1d4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f60bf55.css",
+    "static/js/main.9e5a1d4e.js"
+  ]
+}
